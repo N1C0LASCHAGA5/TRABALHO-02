@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.cabecalho {
+    background-color: black;
+    color: #ffffff;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+
+
+}
+
+.cabecalho-div {
+    display: flex;
+
+}
+
+.bandeiras {
+    background-image: linear-gradient(#000000, #1e1f1c25);
+    padding: 50mm;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+
+
+}
+
+.Bandeira-do-Brasil.jpg {
+    width: 90%;
+}
+
+.presidentes{
+background-image: linear-gradient(#1e1f1c25);
+padding: 50mm;
+color: #ffffff;
+display: flex
+justify-content: center;
+}
