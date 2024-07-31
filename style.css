@@ -3,66 +3,16 @@
     padding: 0;
 }
 
-.cabecalho {
-    background-color: rgb(0, 0, 0);
-    color: #ffffff;
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-    padding: 50px 0;
-    display: flex;
-
-
+.Cabeçalho{
+font-size: 35px;
+color: dimgray;
+font-style: italic;
+display: flex
 }
 
-.cabecalho-div {
-    display: flex;
-
-}
-
-.bandeiras {
-    background-image: linear-gradient(#000000, #1e1f1c25);
-    padding: 20mm;
-    color: rgb(253, 245, 245);
-    display: flex;
-    justify-content: center;
-
-
-}
-
-.Bandeira-do-Brasil.jpg {
-    width: 30%;
-}
-
-.presidentes {
-    background-image: linear-gradient(#91928e25);
-    padding: 30mm;
-    color: #ffffff;
-    display: flex justify-content center;
-}
-
-.Bandeiras {
-    background-image: linear-gradient(#000000, #444343ea);
-    color: #ffffff;
-}
-
-.BReV {
-    background-image: linear-gradient(#444343ea, #020202ea);
-    color: #ffffff;
-
-}
-
-.cabecalho-imagem {
-    width: 20%;
-
-}
-
-.cabecalho-lista {
-    display: flex;
-
-}
-
-.cabecalho-item {
-    padding: 0% 20px;
-
+.Informações{
+font-size: 25px;
+color: dimgray;
+font-style: italic;
+display: flex;
 }
