@@ -3,16 +3,34 @@
     padding: 0;
 }
 
-.Cabeçalho{
-font-size: 35px;
-color: dimgray;
-font-style: italic;
-display: flex
+body{
+    background-color: aqua;
 }
 
-.Informações{
-font-size: 25px;
-color: dimgray;
-font-style: italic;
-display: flex;
+.Cabeçalho {
+    font-size: 45px;
+    color: rgb(0, 0, 0);
+    font-style: italic;
+  text-align: center;
+}
+
+.Informações {
+    font-size: 35px;
+    color: rgb(0, 0, 0);
+    font-style: italic;
+    display: flex;
+}
+
+.mark1{
+background-color: rgb(0, 204, 255);
+}
+
+
+.mark2{
+    background-color: rgb(0, 204, 255);
+}
+
+
+.mark3{
+    background-color: rgb(0, 204, 255);;
 }
